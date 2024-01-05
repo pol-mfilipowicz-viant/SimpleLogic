@@ -31,3 +31,4 @@ func main() {
 }
 
 //http://localhost:8080/hello?user_id=1
+//http://localhost:8080/hello?user_id=2
